@@ -2,7 +2,7 @@ public class NumbersDemo
 {
    public static void main(String[] sfjh)
    {
-      int a = -4 ; int b = 7; // Defined integers
+      int a = -4 ; int b = 7; // The defined integers by the user
       
       NumbersDemo n = new NumbersDemo();
       
